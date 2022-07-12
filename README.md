@@ -1,4 +1,4 @@
-# Clone iFood HomePage
+# Clone iFood Homepage
 
 ### Acesse https://clone-ifood-homepage.netlify.app
 
